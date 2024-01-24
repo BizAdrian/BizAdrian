@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me:
 
-- 📩 Ask me about **C#, Java, C++**
+- 📩 Ask me about **HTML, CSS, JavaScript, C#, Java**
 
 - 📫 How to reach me **medranoadrian645@gmail.com**
 
-- 🌱 I'm currently learning **Python, React.js, PHP**
+- 🌱 I'm currently learning **Python, React.js, PHP, WordPress**
 
 <div align="left">
    <h3>🔨 Languages and Tools:</h3>
