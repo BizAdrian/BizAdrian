@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm BizAdrian</h1>
+    <h1 align="center">Hi 👋, I'm Adrian</h1>
     <h3 align="center"> A passionate developer from Dominican Republic.
     </h3>
 </div>
