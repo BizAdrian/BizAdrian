@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me:
 
-- 📩 Ask me about **HTML, CSS, JavaScript, C#, Java**
+- 📩 Ask me about **HTML, CSS, JavaScript, C#**
 
 - 📫 How to reach me **medranoadrian645@gmail.com**
 
-- 🌱 I'm currently learning **Python, React.js, PHP, WordPress**
+- 🌱 I'm currently learning **Python, React.js, PHP**
 
 <div align="left">
    <h3>🔨 Languages and Tools:</h3>
@@ -25,6 +25,8 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"
        width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="csharp"
+       width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Python" alt="python"
        width="40" height="40"/>&nbsp;
    </div>
 </div>
