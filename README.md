@@ -26,7 +26,7 @@
        width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="csharp"
        width="40" height="40"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Python" alt="python"
+       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python"
        width="40" height="40"/>&nbsp;
    </div>
 </div>
